@@ -1,0 +1,18 @@
+{
+  "name": "testapi",
+  "version": "1.0.0",
+  "description": "This is a first pass at a JavaScript API",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "TestApi"
+  },
+  "keywords": [
+    "Meh"
+  ],
+  "author": "Kaylen",
+  "license": "MIT"
+}
