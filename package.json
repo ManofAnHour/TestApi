@@ -14,5 +14,9 @@
     "Meh"
   ],
   "author": "Kaylen",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "body-parser": "^1.15.1",
+    "express": "^4.13.4"
+  }
 }
