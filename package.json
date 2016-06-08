@@ -2,7 +2,7 @@
   "name": "testapi",
   "version": "1.0.0",
   "description": "This is a first pass at a JavaScript API",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "test": "test"
   },
